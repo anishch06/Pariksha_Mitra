@@ -1,6 +1,7 @@
-# Student Performance Analysis API
+# Parikshamitra Backend
+Pariksha Mitra is  an educational application designed for Marathi medium students from grades 5th to 10th. 
 
-This is a Node.js and Express-based API to store, retrieve, and analyze student test performance data using MongoDB.
+The code  is a Node.js and Express-based API to store, retrieve, and analyze student test performance data using MongoDB.
 
 ## Features
 
